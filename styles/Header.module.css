@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+
+  background-color: #5163d3;
+  border: none;
+  text-align: center;
+}
+
+.h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 2rem;
+  font-weight: 800;
+  color: #ffff;
+}
